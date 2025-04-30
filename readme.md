@@ -3,6 +3,7 @@
 ![photo of a split keyboard](TSH.jpg)
 
 The name comes from one of my favourite animals, the thresher shark, a creature endowed with a permanent facial expression that can only be described as "why is existence happening to me":
+
 ![image of a thresher shark](thresher-shark.jpg)
 
 and my favourite video game series, Horizon Zero Dawn/Horizon Forbidden West. Since the general approach to naming a keyboard design seems to be "throw a dart at a dictionary", this seemed as good as anything.
