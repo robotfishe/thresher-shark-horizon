@@ -35,9 +35,21 @@ First, the connectors are parallel, so the cable is hot-plug-safe (TRRS cables, 
 Second, Micro-fit connectors are crimped rather than soldered, so putting together your own cable with custom sleeving should be easier. Pre-built cable assemblies are also readily available.
 
 ### Compatible parts and bill of materials
-The TSH is designed for Gateron low profile switches. You can also use Nuphy-branded low profile switches, which are made by Gateron to the same dimensions.
+The TSH is designed for Gateron low profile switches. You can also use Nuphy-branded low profile switches, which are made by Gateron to the same dimensions. You'll need:
+- 41 switches for the left half
+- 49 for the right half
+- 19 for the numpad (optional)
 
 You'll need a microcontroller board for each half, and a third for the numberpad if you decide to build that as well. It's designed for the [Elite-Pi](https://keeb.io/products/elite-pi-usb-c-pro-micro-replacement-rp2040), but there's no reason I know of the slightly older Elite-C wouldn't work.
+
+Other parts you'll need:
+- 9 stabilisers (all 2U size), available on [Gateron's website](https://www.gateron.com/products/gateron-low-profile-plate-mounted-stabilizer).
+- 220 hot-swap sockets (+50 more for the numpad, optional) - the board is desigend for [Mill-Max 3305s](https://www.digikey.co.uk/en/products/detail/mill-max-manufacturing-corp/3305-0-15-80-47-27-10-0/13901970) under both the keyswitches and MCUs
+- 2 [Molex Micro-Fit 3.0 5-pin receptacles](https://www.molex.com/en-us/products/part-detail/436500500)
+- 1 [Molex Micro-Fit 3.0 5-pin cable assembly](https://www.molex.com/en-us/products/part-detail/2147501052)
+- 90 1N4148 signal diodes (+ 19 more for the numpad, optional)
+
+Finally, you'll need an assortment of M2 screws and M2x3 barrel nuts. For my build, I used 6mm long barrel nuts from [this Aliexpress listing](https://www.aliexpress.com/item/1005007555263192.html?spm=a2g0o.order_list.order_list_main.26.3d2e1802AlYUGI) with 8mm M2 screws for the thinner parts of the boards and 12mm ones for the thicker parts (around the controllers). There's some flexibility in these lengths and you might find that you need something slightly different given the variation in how thick a "2mm" piece of acrylic actually is, among other things.
 
 ### Fabrication and building
 
