@@ -35,7 +35,7 @@ First, the connectors are parallel, so the cable is hot-plug-safe (TRRS cables, 
 Second, Micro-fit connectors are crimped rather than soldered, so putting together your own cable with custom sleeving should be easier. Pre-built cable assemblies are also readily available.
 
 ### Compatible parts and bill of materials
-The TSH is designed for Gateron low profile switches. You can also use Numphy-branded low profile switches, which are made by Gateron to the same dimensions.
+The TSH is designed for Gateron low profile switches. You can also use Nuphy-branded low profile switches, which are made by Gateron to the same dimensions.
 
 You'll need a microcontroller board for each half, and a third for the numberpad if you decide to build that as well. It's designed for the [Elite-Pi](https://keeb.io/products/elite-pi-usb-c-pro-micro-replacement-rp2040), but there's no reason I know of the slightly older Elite-C wouldn't work.
 
