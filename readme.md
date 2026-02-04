@@ -1,5 +1,7 @@
 ### Meet the Thresher Shark Horizon, a split keyboard (plus optional numpad) for Gateron low profile keyswitches, with a couple of unique features.
 
+Note: this repo isn't complete yet, but there should be enough to build your own TSH if you want.
+
 ![photo of a split keyboard](TSH.jpg)
 
 The name comes from one of my favourite animals, the thresher shark, a creature endowed with a permanent facial expression that can only be described as "why is existence happening to me":
